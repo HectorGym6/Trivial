@@ -19,3 +19,14 @@ Vemos que hay un error, corregimos esa parte y limitamos el
 método esJugable para que solo devuelva true si los jugadores son de 2 a 6.
 El método agregar lo modificamos para que dependa del método esJugable.
 
+## Problema 2
+
+Vemos que hay un error, corregimos esa parte y limitamos el 
+método esJugable para que solo devuelva true si los jugadores son de 2 a 6.
+El método agregar lo modificamos para que dependa del método esJugable.
+
+## Problema 3
+
+Añado la instrucción de salir de la cárcel en el método (tirarDado) en el supuesto de sacar un número impar y estar en la cárcel.
+Creo el test  (sacar_numero_impar_y_salir_de_la_cárcel) donde el jugador 1 va a la cárcel y sale después de sacar un número impar avanzando hasta la casilla.
+
